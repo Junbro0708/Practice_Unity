@@ -1,22 +1,29 @@
 ﻿<Properties StartupConfiguration="{20FF612D-6C97-E5E4-C540-DEEF2D3EFDD3}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/3Scripts/CameraMove.cs">
     <Files>
-      <File FileName="Assets/Scripts/EnemyManager.cs" Line="17" Column="65" />
-      <File FileName="Assets/Scripts/Enemy.cs" Line="31" Column="59" />
-      <File FileName="Assets/Scripts/DestroyZone.cs" Line="9" Column="35" />
-      <File FileName="Assets/Scripts/Background.cs" Line="20" Column="82" />
+      <File FileName="Assets/3Scripts/PlayerMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/3Scripts/GameCharacterMove.cs" Line="34" Column="41" />
+      <File FileName="../LifeUnity/Assets/Scripts/LifeCycle.cs" Line="1" Column="1" />
+      <File FileName="../GoldMetal/Assets/Scripts/Ball Game/MyBall.cs" Line="1" Column="1" />
+      <File FileName="Assets/3Scripts/CameraMove.cs" Line="31" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Unity_Practice" expanded="True" selected="True" />
+          <Node name="Unity_Practice" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="3Scripts" expanded="True">
+                <Node name="CameraMove.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="92435ae0-c5d4-431b-9090-d97145149ebf" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="26749e17-d66e-41c3-b1be-a6273bc345f9" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

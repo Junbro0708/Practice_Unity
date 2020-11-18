@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/20200923_shootingGame.unity
+- path: Assets/2Scenes/CameraMoving.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
